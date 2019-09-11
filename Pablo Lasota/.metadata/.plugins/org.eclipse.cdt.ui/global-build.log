@@ -1,0 +1,1857 @@
+18:56:42 **** Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:46:7: warning: unused variable ‘nombre’ [-Wunused-variable]
+  char nombre[CANT_NOMBRES][25];
+       ^~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+18:57:17 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:05:05 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:46:7: warning: unused variable ‘nombre’ [-Wunused-variable]
+  char nombre[CANT_NOMBRES][25];
+       ^~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:05:22 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:05:30 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:05:32 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:05:39 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:17:58 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:18:00 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:19:01 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:19:05 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:19:46 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:19:47 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:20:39 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:20:41 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:22:03 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:22:05 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:24:00 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:55:12: warning: format ‘%c’ expects argument of type ‘int’, but argument 2 has type ‘char *’ [-Wformat=]
+   printf("%c",nombre[i]);
+            ^
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:25:51 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:55:12: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+   printf("%s",nombre[i][25]);
+            ^
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:26:02 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:26:20 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:33:05 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:64:17: error: ‘bNombres’ undeclared (first use in this function)
+   printf("%s\n",bNombres[i]);
+                 ^~~~~~~~
+../src/Clase_07.c:64:17: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+19:33:25 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:64:12: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+   printf("%s\n",bNombre[i]);
+            ^
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:33:28 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:33:37 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:33:41 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:33:43 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:33:45 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:39:51 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:48:8: warning: unused variable ‘j’ [-Wunused-variable]
+  int i,j;
+        ^
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:39:53 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:39:54 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:40:16 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:48:8: warning: unused variable ‘j’ [-Wunused-variable]
+  int i,j;
+        ^
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+19:40:18 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+19:54:28 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:44:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char array[][],int cantidad);
+                              ^~~~~
+../src/Clase_07.c:44:30: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:56:31: error: array type has incomplete element type ‘char[]’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                               ^~~~~~~
+../src/Clase_07.c:56:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:56:47: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                                               ^~~~~~~~~~~~
+../src/Clase_07.c:50:8: warning: unused variable ‘j’ [-Wunused-variable]
+  int i,j;
+        ^
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:258:30: error: array type has incomplete element type ‘char[]’
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+ int imprimirArrayString(char array[][],int cantidad)
+                              ^~~~~
+../src/Clase_07.c:258:30: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:55:09 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:44:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char Array[][],int cantidad);
+                              ^~~~~
+../src/Clase_07.c:44:30: note: declaration of ‘Array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:56:31: error: array type has incomplete element type ‘char[]’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                               ^~~~~~~
+../src/Clase_07.c:56:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:56:47: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                                               ^~~~~~~~~~~~
+../src/Clase_07.c:50:8: warning: unused variable ‘j’ [-Wunused-variable]
+  int i,j;
+        ^
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:258:30: error: array type has incomplete element type ‘char[]’
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+ int imprimirArrayString(char Array[][],int cantidad)
+                              ^~~~~
+../src/Clase_07.c:258:30: note: declaration of ‘Array’ as multidimensional array must have bounds for all dimensions except the first
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:55:46 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:44:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char bNombre[][],int cantidad);
+                              ^~~~~~~
+../src/Clase_07.c:44:30: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:56:31: error: array type has incomplete element type ‘char[]’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                               ^~~~~~~
+../src/Clase_07.c:56:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:56:47: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                                               ^~~~~~~~~~~~
+../src/Clase_07.c:50:8: warning: unused variable ‘j’ [-Wunused-variable]
+  int i,j;
+        ^
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:258:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char bNombre[][],int cantidad)
+                              ^~~~~~~
+../src/Clase_07.c:258:30: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:56:28 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:56:31: error: array type has incomplete element type ‘char[]’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                               ^~~~~~~
+../src/Clase_07.c:56:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:56:47: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                                               ^~~~~~~~~~~~
+../src/Clase_07.c:50:8: warning: unused variable ‘j’ [-Wunused-variable]
+  int i,j;
+        ^
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:258:31: error: array type has incomplete element type ‘char *[]’
+ int imprimirArrayString(char *bNombre[][],int cantidad)
+                               ^~~~~~~
+../src/Clase_07.c:258:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:56:46 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:56:32: error: array type has incomplete element type ‘char *[]’
+  int imprimirArrayString(char *bNombre[][],int CANT_NOMBRES);
+                                ^~~~~~~
+../src/Clase_07.c:56:32: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:56:48: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char *bNombre[][],int CANT_NOMBRES);
+                                                ^~~~~~~~~~~~
+../src/Clase_07.c:50:8: warning: unused variable ‘j’ [-Wunused-variable]
+  int i,j;
+        ^
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:258:31: error: array type has incomplete element type ‘char *[]’
+ int imprimirArrayString(char *bNombre[][],int cantidad)
+                               ^~~~~~~
+../src/Clase_07.c:258:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:57:05 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:56:46: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char *bNombre[],int CANT_NOMBRES);
+                                              ^~~~~~~~~~~~
+../src/Clase_07.c:50:8: warning: unused variable ‘j’ [-Wunused-variable]
+  int i,j;
+        ^
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:258:31: error: array type has incomplete element type ‘char *[]’
+ int imprimirArrayString(char *bNombre[][],int cantidad)
+                               ^~~~~~~
+../src/Clase_07.c:258:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:57:47 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:57:46: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char *bNombre[],int CANT_NOMBRES);
+                                              ^~~~~~~~~~~~
+../src/Clase_07.c:51:8: warning: unused variable ‘j’ [-Wunused-variable]
+  int i,j;
+        ^
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:31: error: array type has incomplete element type ‘char *[]’
+ int imprimirArrayString(char *bNombre[][],int cantidad)
+                               ^~~~~~~
+../src/Clase_07.c:259:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:58:13 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:6: error: conflicting types for ‘imprimirArrayString’
+  int imprimirArrayString(char *bNombre[],int nombre[CANT_NOMBRES]);
+      ^~~~~~~~~~~~~~~~~~~
+../src/Clase_07.c:45:5: note: previous declaration of ‘imprimirArrayString’ was here
+ int imprimirArrayString(char *bNombre[],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:31: error: array type has incomplete element type ‘char *[]’
+ int imprimirArrayString(char *bNombre[][],int cantidad)
+                               ^~~~~~~
+../src/Clase_07.c:259:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:259:5: error: conflicting types for ‘imprimirArrayString’
+ int imprimirArrayString(char *bNombre[][],int cantidad)
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_07.c:57:6: note: previous declaration of ‘imprimirArrayString’ was here
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+  int imprimirArrayString(char *bNombre[],int nombre[CANT_NOMBRES]);
+      ^~~~~~~~~~~~~~~~~~~
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:58:53 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char bNombre[][],int cantidad);
+                              ^~~~~~~
+../src/Clase_07.c:45:30: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:31: error: array type has incomplete element type ‘char[]’
+  int imprimirArrayString(char bNombre[][],int nombre[]);
+                               ^~~~~~~
+../src/Clase_07.c:57:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:57:6: error: conflicting types for ‘imprimirArrayString’
+  int imprimirArrayString(char bNombre[][],int nombre[]);
+      ^~~~~~~~~~~~~~~~~~~
+../src/Clase_07.c:45:5: note: previous declaration of ‘imprimirArrayString’ was here
+ int imprimirArrayString(char bNombre[][],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char bNombre[][],int cantidad)
+                              ^~~~~~~
+../src/Clase_07.c:259:30: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:259:5: error: conflicting types for ‘imprimirArrayString’
+ int imprimirArrayString(char bNombre[][],int cantidad)
+     ^~~~~~~~~~~~~~~~~~~
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+../src/Clase_07.c:57:6: note: previous declaration of ‘imprimirArrayString’ was here
+  int imprimirArrayString(char bNombre[][],int nombre[]);
+      ^~~~~~~~~~~~~~~~~~~
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:59:19 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char bNombre[][],int cantidad);
+                              ^~~~~~~
+../src/Clase_07.c:45:30: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:31: error: array type has incomplete element type ‘char[]’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                               ^~~~~~~
+../src/Clase_07.c:57:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:57:47: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                                               ^~~~~~~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char bNombre[][],int cantidad)
+                              ^~~~~~~
+../src/Clase_07.c:259:30: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:00:08 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:31: error: array type has incomplete element type ‘char[]’
+  int imprimirArrayString(char asd[][],int CANT_NOMBRES);
+                               ^~~
+../src/Clase_07.c:57:31: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:57:43: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char asd[][],int CANT_NOMBRES);
+                                           ^~~~~~~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+20:00:40 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:57:41: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char asd[],int CANT_NOMBRES);
+                                         ^~~~~~~~~~~~
+../src/Clase_07.c: In function ‘imprimirArrayString’:
+../src/Clase_07.c:264:12: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+   printf("%s\n",asd[i]);
+            ^
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+20:01:21 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:41: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+  int imprimirArrayString(char asd[],int 5);
+                                         ^
+../src/Clase_07.c: In function ‘imprimirArrayString’:
+../src/Clase_07.c:264:12: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+   printf("%s\n",asd[i]);
+            ^
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+20:01:27 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:57:41: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char asd[],int CANT_NOMBRES);
+                                         ^~~~~~~~~~~~
+../src/Clase_07.c: In function ‘imprimirArrayString’:
+../src/Clase_07.c:264:12: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+   printf("%s\n",asd[i]);
+            ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:02:28 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:31: error: array type has incomplete element type ‘char[]’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                               ^~~~~~~
+../src/Clase_07.c:57:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:57:47: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                                               ^~~~~~~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘imprimirArrayString’:
+../src/Clase_07.c:264:24: error: expected expression before ‘]’ token
+   printf("%s\n",asd[i][]);
+                        ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:02:47 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:31: error: array type has incomplete element type ‘char[]’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                               ^~~~~~~
+../src/Clase_07.c:57:31: note: declaration of ‘bNombre’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c:15:22: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ #define CANT_NOMBRES 5
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+                      ^
+../src/Clase_07.c:57:47: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(char bNombre[][],int CANT_NOMBRES);
+                                               ^~~~~~~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:04:48 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:26: error: expected declaration specifiers or ‘...’ before ‘bNombre’
+  int imprimirArrayString(bNombre[][],CANT_NOMBRES);
+                          ^~~~~~~
+../src/Clase_07.c:15:22: error: expected declaration specifiers or ‘...’ before numeric constant
+ #define CANT_NOMBRES 5
+                      ^
+../src/Clase_07.c:57:38: note: in expansion of macro ‘CANT_NOMBRES’
+  int imprimirArrayString(bNombre[][],CANT_NOMBRES);
+                                      ^~~~~~~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:06:44 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:30: error: expected expression before ‘]’ token
+  imprimirArrayString(bNombre[][],CANT_NOMBRES);
+                              ^
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre[][],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:07:52 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:30: error: expected expression before ‘]’ token
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                              ^
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:07:58 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:30: error: expected expression before ‘]’ token
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                              ^
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+20:09:18 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:30: error: expected expression before ‘]’ token
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                              ^
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:10:06 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:15:04 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:30: error: expected expression before ‘]’ token
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                              ^
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:15:30 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:30: error: expected expression before ‘]’ token
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                              ^
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:15:47 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre[50],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:16:49 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:17:09 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+20:17:11 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:18:20 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+20:19:08 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:32: error: two or more data types in declaration specifiers
+ int imprimirArrayString(double char asd[][],int cantidad);
+                                ^~~~
+../src/Clase_07.c:45:37: error: array type has incomplete element type ‘double[]’
+ int imprimirArrayString(double char asd[][],int cantidad);
+                                     ^~~
+../src/Clase_07.c:45:37: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:19:29 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:45:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad);
+                              ^~~
+../src/Clase_07.c:45:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c: At top level:
+../src/Clase_07.c:259:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char asd[][],int cantidad)
+                              ^~~
+../src/Clase_07.c:259:30: note: declaration of ‘asd’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:22:10 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+20:22:17 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:22:31 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:22:45 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:22:59 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:23:38 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:24:13 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:59:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+20:24:15 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:57:30 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+20:57:31 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:58:03 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+20:58:04 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:58:52 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+20:59:03 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+20:59:21 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+20:59:23 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:59:43 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+20:59:53 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:00:11 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:30: error: expected expression before ‘]’ token
+  imprimirArrayString(bNombre[][25],CANT_NOMBRES);
+                              ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:00:18 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: error: ‘bNombre25’ undeclared (first use in this function)
+  imprimirArrayString(bNombre25],CANT_NOMBRES);
+                      ^~~~~~~~~
+../src/Clase_07.c:57:22: note: each undeclared identifier is reported only once for each function it appears in
+../src/Clase_07.c:57:31: error: expected ‘)’ before ‘]’ token
+  imprimirArrayString(bNombre25],CANT_NOMBRES);
+                               ^
+../src/Clase_07.c:57:2: error: too few arguments to function ‘imprimirArrayString’
+  imprimirArrayString(bNombre25],CANT_NOMBRES);
+  ^~~~~~~~~~~~~~~~~~~
+../src/Clase_07.c:45:5: note: declared here
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_07.c:57:31: error: expected ‘;’ before ‘]’ token
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+  imprimirArrayString(bNombre25],CANT_NOMBRES);
+                               ^
+../src/Clase_07.c:57:31: error: expected statement before ‘]’ token
+../src/Clase_07.c:57:32: error: expected expression before ‘,’ token
+  imprimirArrayString(bNombre25],CANT_NOMBRES);
+                                ^
+../src/Clase_07.c:57:32: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+../src/Clase_07.c:57:32: warning: statement with no effect [-Wunused-value]
+../src/Clase_07.c:57:45: error: expected statement before ‘)’ token
+  imprimirArrayString(bNombre25],CANT_NOMBRES);
+                                             ^
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:00:27 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char asd[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:00:52 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:00:53 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:02:08 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_07.c: In function ‘imprimirArrayString’:
+../src/Clase_07.c:262:5: error: ‘asd’ undeclared (first use in this function)
+  if(asd != NULL && cantidad > 0)
+     ^~~
+../src/Clase_07.c:262:5: note: each undeclared identifier is reported only once for each function it appears in
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:02:27 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:03:57 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+../src/Clase_07.c: In function ‘main’:
+Invoking: GCC C Compiler
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+  imprimirArrayString(bNombre[24],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:04:10 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ makes pointer from integer without a cast [-Wint-conversion]
+  imprimirArrayString(bNombre[25],CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:04:58 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:05:22 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:06:49 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:06:50 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:07:37 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:07:40 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:07:42 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:08:36 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:08:38 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:08:45 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:08:56 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:09:07 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:11:02 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:11:31 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:30: error: expected expression before ‘]’ token
+  imprimirArrayString(bNombre[],CANT_NOMBRES);
+                              ^
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+21:11:40 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:11:59 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:12:02 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:12:16 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:13:06 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:13:10 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:13:37 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:14:49 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:57:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:14:51 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:15:24 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:18:24 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:59:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(bNombre,CANT_NOMBRES);
+                      ^~~~~~~
+../src/Clase_07.c:45:5: note: expected ‘char (*)[25]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][25],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:21:10 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:21:27 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:22:16 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:22:18 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:33:27 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c:44:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][], int cantidad);
+                            ^~~~~
+../src/Clase_07.c:44:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:2: warning: implicit declaration of function ‘ordenarArrayString’ [-Wimplicit-function-declaration]
+  ordenarArrayString(nombre,CANT_NOMBRES);
+  ^~~~~~~~~~~~~~~~~~
+../src/Clase_07.c: In function ‘ordenaArrayString’:
+../src/Clase_07.c:296:16: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+      bufferInt = array[i];
+                ^
+../src/Clase_07.c:297:15: error: assignment to expression with array type
+      array[i] = array[i+1];
+               ^
+../src/Clase_07.c:298:16: error: assignment to expression with array type
+      array[i+1]=bufferInt;
+                ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:34:25 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:2: warning: implicit declaration of function ‘ordenarArrayString’ [-Wimplicit-function-declaration]
+  ordenarArrayString(nombre,CANT_NOMBRES);
+  ^~~~~~~~~~~~~~~~~~
+../src/Clase_07.c: In function ‘ordenaArrayString’:
+../src/Clase_07.c:296:16: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+      bufferInt = array[i];
+                ^
+../src/Clase_07.c:297:15: error: assignment to expression with array type
+      array[i] = array[i+1];
+               ^
+../src/Clase_07.c:298:16: error: assignment to expression with array type
+      array[i+1]=bufferInt;
+                ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:35:38 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:2: warning: implicit declaration of function ‘ordenarArrayString’ [-Wimplicit-function-declaration]
+  ordenarArrayString(nombre,25);
+  ^~~~~~~~~~~~~~~~~~
+../src/Clase_07.c: In function ‘ordenaArrayString’:
+../src/Clase_07.c:296:16: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+      bufferInt = array[i];
+                ^
+../src/Clase_07.c:297:12: error: expected expression before ‘]’ token
+      array[][i] = array[][i+1];
+            ^
+../src/Clase_07.c:298:12: error: expected expression before ‘]’ token
+      array[][i+1]=bufferInt;
+            ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:40:02 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:2: warning: implicit declaration of function ‘ordenarArrayString’ [-Wimplicit-function-declaration]
+  ordenarArrayString(nombre,25);
+  ^~~~~~~~~~~~~~~~~~
+../src/Clase_07.c: In function ‘ordenaArrayString’:
+../src/Clase_07.c:298:14: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+       buffer = array[i];
+              ^
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+./src/Clase_07.o: En la función `main':
+/home/alumno/Documentos/Pablo Lasota/Clase_07/Debug/../src/Clase_07.c:58: referencia a `ordenarArrayString' sin definir
+makefile:30: fallo en las instrucciones para el objetivo 'Clase_07'
+collect2: error: ld returned 1 exit status
+make: *** [Clase_07] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:40:02 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+./src/Clase_07.o: En la función `main':
+/home/alumno/Documentos/Pablo Lasota/Clase_07/Debug/../src/Clase_07.c:58: referencia a `ordenarArrayString' sin definir
+makefile:30: fallo en las instrucciones para el objetivo 'Clase_07'
+collect2: error: ld returned 1 exit status
+make: *** [Clase_07] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:41:43 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:2: warning: implicit declaration of function ‘ordenarArrayString’ [-Wimplicit-function-declaration]
+  ordenarArrayString(nombre,25);
+  ^~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+./src/Clase_07.o: En la función `main':
+/home/alumno/Documentos/Pablo Lasota/Clase_07/Debug/../src/Clase_07.c:58: referencia a `ordenarArrayString' sin definir
+makefile:30: fallo en las instrucciones para el objetivo 'Clase_07'
+collect2: error: ld returned 1 exit status
+make: *** [Clase_07] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:46:01 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:2: warning: implicit declaration of function ‘ordenarArrayString’ [-Wimplicit-function-declaration]
+  ordenarArrayString(nombre,25);
+  ^~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+./src/Clase_07.o: En la función `main':
+/home/alumno/Documentos/Pablo Lasota/Clase_07/Debug/../src/Clase_07.c:58: referencia a `ordenarArrayString' sin definir
+makefile:30: fallo en las instrucciones para el objetivo 'Clase_07'
+collect2: error: ld returned 1 exit status
+make: *** [Clase_07] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:47:04 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:2: warning: implicit declaration of function ‘ordenarArrayString’ [-Wimplicit-function-declaration]
+  ordenarArrayString(nombre,25);
+  ^~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+./src/Clase_07.o: En la función `main':
+/home/alumno/Documentos/Pablo Lasota/Clase_07/Debug/../src/Clase_07.c:58: referencia a `ordenarArrayString' sin definir
+makefile:30: fallo en las instrucciones para el objetivo 'Clase_07'
+collect2: error: ld returned 1 exit status
+make: *** [Clase_07] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:48:29 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:2: warning: implicit declaration of function ‘ordenarArrayString’ [-Wimplicit-function-declaration]
+  ordenarArrayString(nombre,nombre);
+  ^~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+./src/Clase_07.o: En la función `main':
+/home/alumno/Documentos/Pablo Lasota/Clase_07/Debug/../src/Clase_07.c:58: referencia a `ordenarArrayString' sin definir
+collect2: error: ld returned 1 exit status
+makefile:30: fallo en las instrucciones para el objetivo 'Clase_07'
+make: *** [Clase_07] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:49:14 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:2: warning: implicit declaration of function ‘ordenarArrayString’ [-Wimplicit-function-declaration]
+  ordenarArrayString(nombre,);
+  ^~~~~~~~~~~~~~~~~~
+../src/Clase_07.c:58:28: error: expected expression before ‘)’ token
+  ordenarArrayString(nombre,);
+                            ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:50:37 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘main’:
+../src/Clase_07.c:58:27: error: expected expression before ‘)’ token
+  ordenaArrayString(nombre,);
+                           ^
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+21:50:47 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+Finished building: ../src/Clase_07.c
+ 
+Building target: Clase_07
+Invoking: GCC C Linker
+gcc  -o "Clase_07"  ./src/Clase_07.o   
+Finished building target: Clase_07
+ 
+21:50:54 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+make: No se hace nada para 'all'.
+21:53:39 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘ordenaArrayString’:
+../src/Clase_07.c:296:11: error: assignment to expression with array type
+       aux = array[j];
+           ^
+../src/Clase_07.c:297:16: error: assignment to expression with array type
+       array[j] = array[j+1];
+                ^
+../src/Clase_07.c:298:15: error: assignment to expression with array type
+       array[j]=aux;
+               ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:54:31 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘ordenaArrayString’:
+../src/Clase_07.c:296:11: error: expected expression before ‘]’ token
+       aux[] = array[j];
+           ^
+../src/Clase_07.c:297:16: error: assignment to expression with array type
+       array[j] = array[j+1];
+                ^
+../src/Clase_07.c:298:20: error: expected expression before ‘]’ token
+       array[j]=aux[];
+                    ^
+../src/Clase_07.c:284:7: warning: variable ‘aux’ set but not used [-Wunused-but-set-variable]
+  char aux[25];
+       ^~~
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+21:56:07 **** Incremental Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘ordenaArrayString’:
+../src/Clase_07.c:296:11: error: assignment to expression with array type
+       aux = array[j];
+           ^
+../src/Clase_07.c:297:16: error: assignment to expression with array type
+       array[j] = array[j+1];
+                ^
+../src/Clase_07.c:298:15: error: assignment to expression with array type
+       array[j]=aux;
+               ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+make: *** [src/Clase_07.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.

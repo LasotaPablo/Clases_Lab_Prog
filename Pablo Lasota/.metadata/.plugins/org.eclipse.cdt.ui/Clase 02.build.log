@@ -1,0 +1,25 @@
+20:20:55 **** Incremental Build of configuration Debug for project Clase 02 ****
+make all 
+Building file: ../src/Clase 02.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase 02.d" -MT"src/Clase\ 02.d" -o "src/Clase 02.o" "../src/Clase 02.c"
+../src/Clase 02.c: In function ‘main’:
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase 02.o'
+../src/Clase 02.c:27:6: error: too many arguments to function ‘suma’
+  if((suma(primerValor,segundoValor,&resultado))==0)
+      ^~~~
+../src/Clase 02.c:15:6: note: declared here
+  int suma(int,int);
+      ^~~~
+../src/Clase 02.c: At top level:
+../src/Clase 02.c:37:6: error: conflicting types for ‘suma’
+  int suma(int valorA, int valorB,int *resultado)
+      ^~~~
+../src/Clase 02.c:15:6: note: previous declaration of ‘suma’ was here
+  int suma(int,int);
+      ^~~~
+make: *** [src/Clase 02.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+20:20:56 Build Failed. 4 errors, 0 warnings. (took 269ms)
+

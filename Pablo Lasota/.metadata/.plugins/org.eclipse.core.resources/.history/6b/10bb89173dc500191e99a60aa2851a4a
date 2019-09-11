@@ -1,0 +1,33 @@
+/*
+ ============================================================================
+ Name        : Clase_02_02.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(void)
+{
+	int max;
+	int min;
+	int num;
+	int aux;
+	char verificar='s';
+	while(verificar == 's')
+	{
+		printf("Desea contunuar?s/n");
+		scanf("%c",&verificar);
+
+	}
+
+	printf("El maximo numero ingresado es: %d",max);
+	printf("El minimo numero ingresado es: %d",min);
+}
+
+
