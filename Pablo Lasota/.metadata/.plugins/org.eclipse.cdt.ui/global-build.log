@@ -1855,3 +1855,957 @@ gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Cla
 src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
 make: *** [src/Clase_07.o] Error 1
 "make all" terminated with exit code 2. Build might be incomplete.
+18:42:58 **** Build of configuration Debug for project Clase_07 ****
+make all 
+Building file: ../src/Clase_07.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Clase_07.o" -o "src/Clase_07.o" "../src/Clase_07.c"
+../src/Clase_07.c: In function ‘ordenaArrayString’:
+../src/Clase_07.c:296:11: error: assignment to expression with array type
+       aux = array[j];
+           ^
+../src/Clase_07.c:297:16: error: assignment to expression with array type
+       array[j] = array[j+1];
+                ^
+../src/Clase_07.c:298:15: error: assignment to expression with array type
+       array[j]=aux;
+               ^
+make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+18:54:09 **** Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c:26:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char array[][],int cantidad);
+                              ^~~~~
+../src/Clase_08.c:26:30: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+../src/Clase_08.c:27:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][], int cantidad);
+                            ^~~~~
+../src/Clase_08.c:27:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:41:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(nombre,CANT_NOMBRES);
+                      ^~~~~~
+../src/Clase_08.c: At top level:
+../src/Clase_08.c:94:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][],int cantidad)
+                            ^~~~~
+../src/Clase_08.c:94:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:97:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+18:55:12 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c:26:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char array[][],int cantidad);
+                              ^~~~~
+../src/Clase_08.c:26:30: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c:27:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][], int cantidad);
+                            ^~~~~
+../src/Clase_08.c:27:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:41:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(nombre,CANT_NOMBRES);
+                      ^~~~~~
+../src/Clase_08.c: At top level:
+../src/Clase_08.c:94:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][],int cantidad)
+                            ^~~~~
+../src/Clase_08.c:94:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:97:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+18:56:26 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c:26:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char array[][],int cantidad);
+                              ^~~~~
+../src/Clase_08.c:26:30: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c:27:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][], int cantidad);
+                            ^~~~~
+../src/Clase_08.c:27:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:39:10: warning: passing argument 1 of ‘strcpy’ makes pointer from integer without a cast [-Wint-conversion]
+   strcpy(bNombre[i],nombre,CANT_CARACTERES);
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+          ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:125:14: note: expected ‘char * restrict’ but argument is of type ‘char’
+ extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
+              ^~~~~~
+../src/Clase_08.c:39:21: warning: passing argument 2 of ‘strcpy’ from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(bNombre[i],nombre,CANT_CARACTERES);
+                     ^~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:125:14: note: expected ‘const char * restrict’ but argument is of type ‘char (*)[50]’
+ extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
+              ^~~~~~
+../src/Clase_08.c:39:3: error: too many arguments to function ‘strcpy’
+   strcpy(bNombre[i],nombre,CANT_CARACTERES);
+   ^~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:125:14: note: declared here
+ extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
+              ^~~~~~
+../src/Clase_08.c:41:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(nombre,CANT_NOMBRES);
+                      ^~~~~~
+../src/Clase_08.c: At top level:
+../src/Clase_08.c:94:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][],int cantidad)
+                            ^~~~~
+../src/Clase_08.c:94:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:97:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+18:58:56 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c:26:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char array[][],int cantidad);
+                              ^~~~~
+../src/Clase_08.c:26:30: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c:27:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][], int cantidad);
+                            ^~~~~
+../src/Clase_08.c:27:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘main’:
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+../src/Clase_08.c:39:3: error: too many arguments to function ‘strcpy’
+   strcpy(nombre[i],bNombre,CANT_CARACTERES);
+   ^~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:125:14: note: declared here
+ extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
+              ^~~~~~
+../src/Clase_08.c:40:12: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[50]’ [-Wformat=]
+   printf("%s",nombre)
+            ^
+../src/Clase_08.c:41:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c:42:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(nombre,CANT_NOMBRES);
+                      ^~~~~~
+../src/Clase_08.c: At top level:
+../src/Clase_08.c:95:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][],int cantidad)
+                            ^~~~~
+../src/Clase_08.c:95:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:98:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+18:59:16 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c:26:30: error: array type has incomplete element type ‘char[]’
+ int imprimirArrayString(char array[][],int cantidad);
+                              ^~~~~
+../src/Clase_08.c:26:30: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c:27:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][], int cantidad);
+                            ^~~~~
+../src/Clase_08.c:27:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:39:3: error: too many arguments to function ‘strcpy’
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+   strcpy(nombre[i],bNombre,CANT_CARACTERES);
+   ^~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:125:14: note: declared here
+ extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
+              ^~~~~~
+../src/Clase_08.c:41:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c:42:22: error: type of formal parameter 1 is incomplete
+  imprimirArrayString(nombre,CANT_NOMBRES);
+                      ^~~~~~
+../src/Clase_08.c: At top level:
+../src/Clase_08.c:95:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][],int cantidad)
+                            ^~~~~
+../src/Clase_08.c:95:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:98:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:00:58 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c:27:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][], int cantidad);
+                            ^~~~~
+../src/Clase_08.c:27:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:39:3: error: too many arguments to function ‘strcpy’
+   strcpy(nombre[i],bNombre,CANT_CARACTERES);
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+   ^~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:125:14: note: declared here
+ extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
+              ^~~~~~
+../src/Clase_08.c:41:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c: At top level:
+../src/Clase_08.c:80:5: error: conflicting types for ‘imprimirArrayString’
+ int imprimirArrayString(char array[][25],int cantidad)
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_08.c:26:5: note: previous declaration of ‘imprimirArrayString’ was here
+ int imprimirArrayString(char array[][CANT_CARACTERES],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_08.c:95:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][],int cantidad)
+                            ^~~~~
+../src/Clase_08.c:95:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:98:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:01:13 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:39:3: error: too many arguments to function ‘strcpy’
+   strcpy(nombre[i],bNombre,CANT_CARACTERES);
+   ^~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:125:14: note: declared here
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+ extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
+              ^~~~~~
+../src/Clase_08.c:41:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c: At top level:
+../src/Clase_08.c:80:5: error: conflicting types for ‘imprimirArrayString’
+ int imprimirArrayString(char array[][25],int cantidad)
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_08.c:26:5: note: previous declaration of ‘imprimirArrayString’ was here
+ int imprimirArrayString(char array[][CANT_CARACTERES],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_08.c:95:28: error: array type has incomplete element type ‘char[]’
+ int ordenaArrayString(char array[][],int cantidad)
+                            ^~~~~
+../src/Clase_08.c:95:28: note: declaration of ‘array’ as multidimensional array must have bounds for all dimensions except the first
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:98:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:01:39 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:39:3: error: too many arguments to function ‘strcpy’
+   strcpy(nombre[i],bNombre,CANT_CARACTERES);
+   ^~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:125:14: note: declared here
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+ extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
+              ^~~~~~
+../src/Clase_08.c:41:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:98:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:02:13 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:41:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:98:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/Clase_08.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+19:03:05 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:98:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:32:49 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:39:3: error: too many arguments to function ‘strcpy’
+   strcpy(nombre[i],bNombre,CANT_CARACTERES);
+   ^~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:125:14: note: declared here
+ extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
+              ^~~~~~
+../src/Clase_08.c:41:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:106:7: warning: implicit declaration of function ‘strncpm’ [-Wimplicit-function-declaration]
+    if(strncpm(array[i]),array[i+1],CANT_CARACTERES)
+       ^~~~~~~
+../src/Clase_08.c:109:5: error: too few arguments to function ‘strncpy’
+     strncpy(buffer,array[i]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:110:5: error: too few arguments to function ‘strncpy’
+     strncpy(array[i],array[i+1]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:111:5: error: too few arguments to function ‘strncpy’
+     strncpy(buffer,array[i+1]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:98:6: warning: variable ‘fSwap’ set but not used [-Wunused-but-set-variable]
+  int fSwap;
+      ^~~~~
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:33:21 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:40:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:105:7: warning: implicit declaration of function ‘strncpm’ [-Wimplicit-function-declaration]
+    if(strncpm(array[i]),array[i+1],CANT_CARACTERES)
+       ^~~~~~~
+../src/Clase_08.c:108:5: error: too few arguments to function ‘strncpy’
+     strncpy(buffer,array[i]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:109:5: error: too few arguments to function ‘strncpy’
+     strncpy(array[i],array[i+1]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:110:5: error: too few arguments to function ‘strncpy’
+     strncpy(buffer,array[i+1]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:97:6: warning: variable ‘fSwap’ set but not used [-Wunused-but-set-variable]
+  int fSwap;
+      ^~~~~
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:55:49 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:53:12: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+   printf("%s",nombre[i])
+            ^
+../src/Clase_08.c:54:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c:55:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(nombre,CANT_NOMBRES);
+                      ^~~~~~
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+../src/Clase_08.c:26:5: note: expected ‘char (*)[50]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][CANT_CARACTERES],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_08.c:45:19: warning: variable ‘aEmpleado’ set but not used [-Wunused-but-set-variable]
+  struct sEmpleado aEmpleado[1000];
+                   ^~~~~~~~~
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:119:7: warning: implicit declaration of function ‘strncpm’ [-Wimplicit-function-declaration]
+    if(strncpm(array[i]),array[i+1],CANT_CARACTERES)
+       ^~~~~~~
+../src/Clase_08.c:122:5: error: too few arguments to function ‘strncpy’
+     strncpy(buffer,array[i]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:123:5: error: too few arguments to function ‘strncpy’
+     strncpy(array[i],array[i+1]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:124:5: error: too few arguments to function ‘strncpy’
+     strncpy(buffer,array[i+1]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:111:6: warning: variable ‘fSwap’ set but not used [-Wunused-but-set-variable]
+  int fSwap;
+      ^~~~~
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+19:56:13 **** Incremental Build of configuration Debug for project Clase_08 ****
+make all 
+Building file: ../src/Clase_08.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08.d" -MT"src/Clase_08.o" -o "src/Clase_08.o" "../src/Clase_08.c"
+../src/Clase_08.c:17:8: error: no macro name given in #define directive
+ #define
+        ^
+../src/Clase_08.c: In function ‘main’:
+../src/Clase_08.c:53:12: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+   printf("%s",nombre[i])
+            ^
+../src/Clase_08.c:54:2: error: expected ‘;’ before ‘}’ token
+  }
+  ^
+../src/Clase_08.c:55:22: warning: passing argument 1 of ‘imprimirArrayString’ from incompatible pointer type [-Wincompatible-pointer-types]
+  imprimirArrayString(nombre,CANT_NOMBRES);
+                      ^~~~~~
+../src/Clase_08.c:26:5: note: expected ‘char (*)[50]’ but argument is of type ‘char *’
+ int imprimirArrayString(char array[][CANT_CARACTERES],int cantidad);
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_08.c:45:19: warning: variable ‘aEmpleado’ set but not used [-Wunused-but-set-variable]
+  struct sEmpleado aEmpleado[1000];
+                   ^~~~~~~~~
+../src/Clase_08.c: In function ‘ordenaArrayString’:
+../src/Clase_08.c:119:7: warning: implicit declaration of function ‘strncpm’ [-Wimplicit-function-declaration]
+    if(strncpm(array[i]),array[i+1],CANT_CARACTERES)
+       ^~~~~~~
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08.o'
+../src/Clase_08.c:122:5: error: too few arguments to function ‘strncpy’
+     strncpy(buffer,array[i]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:123:5: error: too few arguments to function ‘strncpy’
+     strncpy(array[i],array[i+1]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:124:5: error: too few arguments to function ‘strncpy’
+     strncpy(buffer,array[i+1]);
+     ^~~~~~~
+In file included from ../src/Clase_08.c:14:0:
+/usr/include/string.h:128:14: note: declared here
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08.c:111:6: warning: variable ‘fSwap’ set but not used [-Wunused-but-set-variable]
+  int fSwap;
+      ^~~~~
+make: *** [src/Clase_08.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:30:41 **** Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c:15:17: fatal error: utn.h: No existe el fichero o el directorio
+ #include "utn.h"
+                 ^
+compilation terminated.
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:31:56 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c: In function ‘main’:
+../src/Clase_08_01.c:47:3: warning: implicit declaration of function ‘getString’ [-Wimplicit-function-declaration]
+   getString(bEmpleado.nombre,"Ingrese el nombre",
+   ^~~~~~~~~
+../src/Clase_08_01.c: In function ‘ordenarArrayString’:
+../src/Clase_08_01.c:148:2: error: expected declaration or statement at end of input
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+  return retorno;
+  ^~~~~~
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:32:43 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c: In function ‘ordenarArrayString’:
+../src/Clase_08_01.c:153:2: error: expected declaration or statement at end of input
+  return retorno;
+  ^~~~~~
+make: *** [src/Clase_08_01.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+"make all" terminated with exit code 2. Build might be incomplete.
+20:33:03 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+Finished building: ../src/Clase_08_01.c
+ 
+Building target: Clase_08_01
+Invoking: GCC C Linker
+gcc  -o "Clase_08_01"  ./src/Clase_08_01.o   
+Finished building target: Clase_08_01
+ 
+20:53:57 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+Finished building: ../src/Clase_08_01.c
+ 
+Building target: Clase_08_01
+Invoking: GCC C Linker
+gcc  -o "Clase_08_01"  ./src/Clase_08_01.o   
+Finished building target: Clase_08_01
+ 
+20:53:59 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+20:54:05 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+20:54:07 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+20:54:13 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+20:57:03 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c:130:5: error: conflicting types for ‘ordenarArrayString’
+ int ordenarArrayString(struct sEmpleado *aEmpleado, int cantidad){
+     ^~~~~~~~~~~~~~~~~~
+../src/Clase_08_01.c:32:5: note: previous declaration of ‘ordenarArrayString’ was here
+ int ordenarArrayString(char aNombres[][QTY_CARACTERES], int cantidad);
+     ^~~~~~~~~~~~~~~~~~
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+../src/Clase_08_01.c: In function ‘ordenarArrayString’:
+../src/Clase_08_01.c:135:6: error: ‘aEmpleados’ undeclared (first use in this function)
+  if(*aEmpleados != NULL && cantidad>0)
+      ^~~~~~~~~~
+../src/Clase_08_01.c:135:6: note: each undeclared identifier is reported only once for each function it appears in
+../src/Clase_08_01.c:143:16: error: ‘aNombres’ undeclared (first use in this function)
+     if(strncmp(aNombres[i],aNombres[i+1],QTY_CARACTERES)>0)
+                ^~~~~~~~
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:57:38 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c:130:5: error: conflicting types for ‘ordenarArrayString’
+ int ordenarArrayString(struct sEmpleado *aEmpleado, int cantidad){
+     ^~~~~~~~~~~~~~~~~~
+../src/Clase_08_01.c:32:5: note: previous declaration of ‘ordenarArrayString’ was here
+ int ordenarArrayString(char aNombres[][QTY_CARACTERES], int cantidad);
+     ^~~~~~~~~~~~~~~~~~
+../src/Clase_08_01.c: In function ‘ordenarArrayString’:
+../src/Clase_08_01.c:135:16: error: invalid operands to binary != (have ‘struct sEmpleado’ and ‘void *’)
+  if(*aEmpleado != NULL && cantidad>0)
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+     ~~~~~~~~~~ ^~
+../src/Clase_08_01.c:143:16: error: ‘aNombres’ undeclared (first use in this function)
+     if(strncmp(aNombres[i],aNombres[i+1],QTY_CARACTERES)>0)
+                ^~~~~~~~
+../src/Clase_08_01.c:143:16: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:58:54 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+Finished building: ../src/Clase_08_01.c
+ 
+Building target: Clase_08_01
+Invoking: GCC C Linker
+gcc  -o "Clase_08_01"  ./src/Clase_08_01.o   
+Finished building target: Clase_08_01
+ 
+20:59:55 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c:130:5: error: conflicting types for ‘ordenarArrayString’
+ int ordenarArrayString(struct sEmpleado, int cantidad){
+     ^~~~~~~~~~~~~~~~~~
+../src/Clase_08_01.c:32:5: note: previous declaration of ‘ordenarArrayString’ was here
+ int ordenarArrayString(char aNombres[][QTY_CARACTERES], int cantidad);
+     ^~~~~~~~~~~~~~~~~~
+../src/Clase_08_01.c: In function ‘ordenarArrayString’:
+../src/Clase_08_01.c:130:31: error: parameter name omitted
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+ int ordenarArrayString(struct sEmpleado, int cantidad){
+                               ^~~~~~~~~
+../src/Clase_08_01.c:135:5: error: ‘sEmpleado’ undeclared (first use in this function)
+  if(sEmpleado != NULL && cantidad>0)
+     ^~~~~~~~~
+../src/Clase_08_01.c:135:5: note: each undeclared identifier is reported only once for each function it appears in
+../src/Clase_08_01.c:143:16: error: ‘aNombres’ undeclared (first use in this function)
+     if(strncmp(aNombres[i],aNombres[i+1],QTY_CARACTERES)>0)
+                ^~~~~~~~
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:00:28 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+Finished building: ../src/Clase_08_01.c
+ 
+Building target: Clase_08_01
+Invoking: GCC C Linker
+gcc  -o "Clase_08_01"  ./src/Clase_08_01.o   
+Finished building target: Clase_08_01
+ 
+21:07:53 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c: In function ‘ordenarArrayEmpleados’:
+../src/Clase_08_01.c:169:16: error: incompatible type for argument 1 of ‘strncmp’
+     if(strncmp(aEmpleado[i],aEmpleado[i+1],QTY_CARACTERES)>0)
+                ^~~~~~~~~
+In file included from ../src/Clase_08_01.c:14:0:
+/usr/include/string.h:143:12: note: expected ‘const char *’ but argument is of type ‘struct sEmpleado’
+ extern int strncmp (const char *__s1, const char *__s2, size_t __n)
+            ^~~~~~~
+../src/Clase_08_01.c:169:29: error: incompatible type for argument 2 of ‘strncmp’
+     if(strncmp(aEmpleado[i],aEmpleado[i+1],QTY_CARACTERES)>0)
+                             ^~~~~~~~~
+In file included from ../src/Clase_08_01.c:14:0:
+/usr/include/string.h:143:12: note: expected ‘const char *’ but argument is of type ‘struct sEmpleado’
+ extern int strncmp (const char *__s1, const char *__s2, size_t __n)
+            ^~~~~~~
+../src/Clase_08_01.c:172:21: error: incompatible type for argument 2 of ‘strncpy’
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+      strncpy(buffer,aEmpleado[i],QTY_CARACTERES);
+                     ^~~~~~~~~
+In file included from ../src/Clase_08_01.c:14:0:
+/usr/include/string.h:128:14: note: expected ‘const char * restrict’ but argument is of type ‘struct sEmpleado’
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08_01.c:173:14: error: incompatible type for argument 1 of ‘strncpy’
+      strncpy(aEmpleado[i],aEmpleado[i+1],QTY_CARACTERES);
+              ^~~~~~~~~
+In file included from ../src/Clase_08_01.c:14:0:
+/usr/include/string.h:128:14: note: expected ‘char * restrict’ but argument is of type ‘struct sEmpleado’
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08_01.c:173:27: error: incompatible type for argument 2 of ‘strncpy’
+      strncpy(aEmpleado[i],aEmpleado[i+1],QTY_CARACTERES);
+                           ^~~~~~~~~
+In file included from ../src/Clase_08_01.c:14:0:
+/usr/include/string.h:128:14: note: expected ‘const char * restrict’ but argument is of type ‘struct sEmpleado’
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+../src/Clase_08_01.c:174:14: error: incompatible type for argument 1 of ‘strncpy’
+      strncpy(aEmpleado[i+1],buffer,QTY_CARACTERES);
+              ^~~~~~~~~
+In file included from ../src/Clase_08_01.c:14:0:
+/usr/include/string.h:128:14: note: expected ‘char * restrict’ but argument is of type ‘struct sEmpleado’
+ extern char *strncpy (char *__restrict __dest,
+              ^~~~~~~
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:22:27 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c: In function ‘ordenarArrayEmpleados’:
+../src/Clase_08_01.c:169:8: error: too few arguments to function ‘strncmp’
+     if(strncmp(aEmpleado[i].nombre,aEmpleado[i+1].nombre)>0)
+        ^~~~~~~
+In file included from ../src/Clase_08_01.c:14:0:
+/usr/include/string.h:143:12: note: declared here
+ extern int strncmp (const char *__s1, const char *__s2, size_t __n)
+            ^~~~~~~
+../src/Clase_08_01.c:159:19: warning: variable ‘buffer’ set but not used [-Wunused-but-set-variable]
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+  struct sEmpleado buffer;
+                   ^~~~~~
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:29:44 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c: In function ‘ordenarArrayEmpleados’:
+../src/Clase_08_01.c:159:20: error: storage size of ‘buffer’ isn’t known
+  struct sEempleado buffer;
+                    ^~~~~~
+../src/Clase_08_01.c:159:20: warning: unused variable ‘buffer’ [-Wunused-variable]
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:33:58 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c: In function ‘ordenarArrayEmpleados’:
+../src/Clase_08_01.c:172:6: error: ‘buffer’ undeclared (first use in this function)
+      buffer = aEmpleado[i];
+      ^~~~~~
+../src/Clase_08_01.c:172:6: note: each undeclared identifier is reported only once for each function it appears in
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:34:14 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+Finished building: ../src/Clase_08_01.c
+ 
+Building target: Clase_08_01
+Invoking: GCC C Linker
+gcc  -o "Clase_08_01"  ./src/Clase_08_01.o   
+Finished building target: Clase_08_01
+ 
+21:34:19 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+21:35:47 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c: In function ‘main’:
+../src/Clase_08_01.c:64:2: warning: implicit declaration of function ‘ordenarArrayEmpleados’ [-Wimplicit-function-declaration]
+  ordenarArrayEmpleados(aEmpleados,3);
+  ^~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/Clase_08_01.c
+ 
+Building target: Clase_08_01
+Invoking: GCC C Linker
+gcc  -o "Clase_08_01"  ./src/Clase_08_01.o   
+Finished building target: Clase_08_01
+ 
+21:36:22 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c: In function ‘ordenarArrayEmpleados’:
+../src/Clase_08_01.c:44:5: warning: ‘main’ is normally a non-static function [-Wmain]
+ int main(void)
+     ^~~~
+../src/Clase_08_01.c:184:1: error: expected declaration or statement at end of input
+ }
+ ^
+../src/Clase_08_01.c:184:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+At top level:
+../src/Clase_08_01.c:159:5: warning: ‘ordenarArrayEmpleados’ defined but not used [-Wunused-function]
+ int ordenarArrayEmpleados(struct sEmpleado *aEmpleado, int cantidad){
+     ^~~~~~~~~~~~~~~~~~~~~
+../src/Clase_08_01.c:133:5: warning: ‘ordenarArrayString’ defined but not used [-Wunused-function]
+ int ordenarArrayString(char aNombres[][QTY_CARACTERES], int cantidad){
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_08_01.o'
+     ^~~~~~~~~~~~~~~~~~
+../src/Clase_08_01.c:99:5: warning: ‘getString’ defined but not used [-Wunused-function]
+ int getString( char *pResultado,
+     ^~~~~~~~~
+../src/Clase_08_01.c:86:5: warning: ‘imprimirArrayString’ defined but not used [-Wunused-function]
+ int imprimirArrayString(char aNombres[][QTY_CARACTERES], int cantidad){
+     ^~~~~~~~~~~~~~~~~~~
+../src/Clase_08_01.c:72:5: warning: ‘imprimirArrayEmpleados’ defined but not used [-Wunused-function]
+ int imprimirArrayEmpleados(struct sEmpleado *aEmpleado, int cantidad){
+     ^~~~~~~~~~~~~~~~~~~~~~
+../src/Clase_08_01.c:44:5: warning: ‘main’ defined but not used [-Wunused-function]
+ int main(void)
+     ^~~~
+make: *** [src/Clase_08_01.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:36:42 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+Finished building: ../src/Clase_08_01.c
+ 
+Building target: Clase_08_01
+Invoking: GCC C Linker
+gcc  -o "Clase_08_01"  ./src/Clase_08_01.o   
+Finished building target: Clase_08_01
+ 
+21:37:24 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+21:37:26 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+22:01:03 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+../src/Clase_08_01.c: In function ‘ordenarArrayEmpleados’:
+../src/Clase_08_01.c:163:19: warning: unused variable ‘bApellido’ [-Wunused-variable]
+  struct sEmpleado bApellido;
+                   ^~~~~~~~~
+Finished building: ../src/Clase_08_01.c
+ 
+Building target: Clase_08_01
+Invoking: GCC C Linker
+gcc  -o "Clase_08_01"  ./src/Clase_08_01.o   
+Finished building target: Clase_08_01
+ 
+22:01:18 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+Building file: ../src/Clase_08_01.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_08_01.d" -MT"src/Clase_08_01.o" -o "src/Clase_08_01.o" "../src/Clase_08_01.c"
+Finished building: ../src/Clase_08_01.c
+ 
+Building target: Clase_08_01
+Invoking: GCC C Linker
+gcc  -o "Clase_08_01"  ./src/Clase_08_01.o   
+Finished building target: Clase_08_01
+ 
+22:01:28 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+22:02:07 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+22:03:25 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.
+22:04:12 **** Incremental Build of configuration Debug for project Clase_08_01 ****
+make all 
+make: No se hace nada para 'all'.

@@ -1,4 +1,4 @@
-21:56:07 **** Incremental Build of configuration Debug for project Clase_07 ****
+18:42:58 **** Build of configuration Debug for project Clase_07 ****
 make all 
 Building file: ../src/Clase_07.c
 Invoking: GCC C Compiler
@@ -13,9 +13,9 @@ gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase_07.d" -MT"src/Cla
 ../src/Clase_07.c:298:15: error: assignment to expression with array type
        array[j]=aux;
                ^
-src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
 make: *** [src/Clase_07.o] Error 1
+src/subdir.mk:18: fallo en las instrucciones para el objetivo 'src/Clase_07.o'
 "make all" terminated with exit code 2. Build might be incomplete.
 
-21:56:08 Build Failed. 5 errors, 0 warnings. (took 320ms)
+18:42:59 Build Failed. 5 errors, 0 warnings. (took 942ms)
 
